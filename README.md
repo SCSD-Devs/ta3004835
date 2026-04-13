@@ -19,6 +19,7 @@ Unblocks Every Site even with school blockers.
 
 [Geforce Now](https://play.geforcenow.com/mall/)
 
+[Listez By Max Crafter YT & YMAL.space Studio](https://max-crafter-yt-listez.onrender.com/)
 
 ---------------------------------------------------------------------------------------
 
