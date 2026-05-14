@@ -15,7 +15,11 @@ Unblocks Every Site even with school blockers.
 # 🔗 Available Links:
 [N/A](https://orroaoooaosjaoooajas.com)
 
-# DUED TO STUDENTS SEARCHING UP THINGS THEY SHOULDN'T WE ARE NOW WORKING ON A BETTER VERSION FREE BUT NOT SENDING YOU TO GOOGLE and if you search Google IT WILL GET BLOCKED EVERYTHING HOSTED ON OUR OWN SEARCH ENGINE, WE WOULD BRING IT BACK BUT, IF YOU WANT IT BACK THAN PROMISE YOU DON'T BREAK OUR USAGE
+# Due to students searching for inappropriate or unauthorized content, we are currently developing a safer and improved version of our platform.
+
+# For security and compliance reasons, external search engines such as Google have been disabled and blocked. All searches and services will now be hosted entirely through our own secure search system.
+
+# While we understand some users may want Google access restored, we cannot risk misuse of the platform. If access is ever reconsidered in the future, it will depend on users following our usage policies responsibly and respectfully.
 
 ---------------------------------------------------------------------------------------
 
