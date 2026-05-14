@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ymal.space/protected-repo"><img src="https://copilot.microsoft.com/th/id/BCO.cc31b2a1-6a8f-42a1-ba73-0c8487777a4f.png" alt="Logo" height=270></a>
+  <a href="https://ymal.space/protected-repo"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTgn3WhH8sCKz8iThbCy37EXBUm9Fk5Plhkg&s" alt="Logo" height=270></a>
 </p>
 <h1 align="center">Web Access Hub</h1>
 <p align="center">
@@ -13,13 +13,9 @@ Unblocks Every Site even with school blockers.
 ---------------------------------------------------------------------------------------
 
 # 🔗 Available Links:
-[Google](https://google.com)
+[N/A](https://orroaoooaosjaoooajas.com)
 
-[Xbox Could Gaming](https://www.xbox.com/en-us/play)
-
-[Geforce Now](https://play.geforcenow.com/mall/)
-
-[Listez By Max Crafter YT & YMAL.space Studio](https://max-crafter-yt-listez.onrender.com/)
+# DUED TO STUDENTS SEARCHING UP THINGS THEY SHOULDN'T WE ARE NOW WORKING ON A BETTER VERSION FREE BUT NOT SENDING YOU TO GOOGLE and if you search Google IT WILL GET BLOCKED EVERYTHING HOSTED ON OUR OWN SEARCH ENGINE, WE WOULD BRING IT BACK BUT, IF YOU WANT IT BACK THAN PROMISE YOU DON'T BREAK OUR USAGE
 
 ---------------------------------------------------------------------------------------
 
