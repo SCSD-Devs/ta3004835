@@ -13,13 +13,9 @@ Unblocks Every Site even with school blockers.
 ---------------------------------------------------------------------------------------
 
 # 🔗 Available Links:
-[N/A](https://orroaoooaosjaoooajas.com)
+[Google](https://search.ymal.space)
 
-# Due to students searching for inappropriate or unauthorized content, we are currently developing a safer and improved version of our platform.
-
-# For security and compliance reasons, external search engines such as Google have been disabled and blocked. All searches and services will now be hosted entirely through our own secure search system.
-
-# While we understand some users may want Google access restored, we cannot risk misuse of the platform. If access is ever reconsidered in the future, it will depend on users following our usage policies responsibly and respectfully.
+# We are giving y'all a 2nd chance to use the system, but this isn't using Google Anymore, It's gonna be using YMAL Private Search Engine.
 
 ---------------------------------------------------------------------------------------
 
@@ -71,6 +67,16 @@ Contributors:
         </a>
         <br />
         <span title="Co"Leader>⭐ Co Leader</span>
+      </td>
+                  <!-- Dominic (Placeholder) -->
+      <td align="center" valign="top" width="14.28%">
+        <a href="#">
+          <img src="https://via.placeholder.com/100" width="100px;" alt="GGDade-Dev"/>
+          <br />
+          <sub><b>GGDade-Dev</b></sub>
+        </a>
+        <br />
+        <span title="Co"Leader>⭐ Developer</span>
       </td>
     </tr>
   </tbody>
