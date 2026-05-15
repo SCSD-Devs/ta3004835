@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://ymal.space/protected-repo"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTgn3WhH8sCKz8iThbCy37EXBUm9Fk5Plhkg&s" alt="Logo" height=270></a>
 </p>
-<h1 align="center">Web Access Hub</h1>
+<h1 align="center">BypassAI</h1>
 <p align="center">
 <strong>Quickly access popular cloud-based platforms and services using the links below.</strong><br>
 Unblocks Every Site even with school blockers.
