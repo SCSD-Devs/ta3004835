@@ -15,6 +15,8 @@ Unblocks Every Site even with school blockers.
 # 🔗 Available Links:
 [Google](https://search.ymal.space)
 
+[Access Real Google](https://sub2unlock.io/NKEVU)
+
 # We are giving y'all a 2nd chance to use the system, but this isn't using Google Anymore, It's gonna be using YMAL Private Search Engine.
 
 ---------------------------------------------------------------------------------------
